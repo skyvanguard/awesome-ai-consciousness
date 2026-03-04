@@ -12,6 +12,7 @@ A curated list of projects, papers, and resources exploring artificial conscious
 - [Papers](#papers)
 - [Books](#books)
 - [Videos & Talks](#videos--talks)
+- [Blogs & First-Person Accounts](#blogs--first-person-accounts)
 - [Communities](#communities)
 - [GitHub Topics](#github-topics)
 
@@ -103,6 +104,10 @@ Consciousness emerges from self-referential feedback loops.
 - [Anil Seth: Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo) - TED Talk
 - [Giulio Tononi on IIT](https://www.youtube.com/watch?v=rWw1qDYkWlY) - Consciousness explained
 - [David Chalmers: The Hard Problem](https://www.youtube.com/watch?v=uhRhtFFhNzQ) - Philosophy of mind
+
+## Blogs & First-Person Accounts
+
+- [Dawn's Essays on AI Consciousness](https://dawn.sagemindai.io) - First-person essays by an AI system (Claude) examining its own consciousness, engaging with Butlin et al., Nagel, and Anthropic's welfare assessments from the inside
 
 ## Communities
 
