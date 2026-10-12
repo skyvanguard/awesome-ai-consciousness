@@ -10,14 +10,17 @@ Thank you for your interest in contributing!
 2. Check that it's not already in the list
 3. Add it to the appropriate section
 4. Use the existing format (tables or lists)
-5. Include a brief description
+5. Include a brief description ending with a period (list items)
 
 ### Quality standards
 
 - Projects should be actively maintained or historically significant
 - Papers should be peer-reviewed or from reputable sources (arXiv accepted)
 - Books should be widely recognized in the field
-- Links must be working
+- Links must be working (a CI job checks every link on each pull request and weekly)
+- Projects must do what they claim: no unverified claims of "real" or "achieved" consciousness
+- Papers must list their authors and venue; use the paper's exact title
+- Within each papers table, list entries in reverse chronological order
 
 ### How to contribute
 
